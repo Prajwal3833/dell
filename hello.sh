@@ -7,3 +7,4 @@ usefull
 jenkis
 docker
 kubernates
+hg
